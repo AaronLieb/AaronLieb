@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey, I'm Aaron!
 
-<!--
-**AaronLieb/AaronLieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm currently a 3rd year at CSU Fullerton studying CS
+I'm the President of acmCSUF, the largest tech community at CSUF
+This summer, I'll be an SDE Intern at Amazon in Seattle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests 
+
+* 🤖 Web Automation
+* 📈 High Performance Programming
+* 💻 Security
+* 🧑🏻‍💻 Competitive Programming  
+* ⌨️ Typing (182 wpm / 60s on [monkeytype](https://monkeytype.com))
+* 🧩 Puzzles
+* 🎲 Board Games
+* 🧑🏻‍🏫 Teaching
