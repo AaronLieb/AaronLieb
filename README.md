@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm currently a 3rd year at CSU Fullerton studying CS  
-I'm the President of acmCSUF, the largest tech community at CSUF  
-This summer, I'll be an SDE Intern at Amazon in Seattle
+I'm currently a 4th year at CSU Fullerton studying CS  
+I'm currently the Special Events Lead fo acmCSUF, the largest tech community at CSUF  
+This past Summer I was an SDE intern at Amazon
 
 ## Interests 
 
