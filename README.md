@@ -3,7 +3,7 @@
 ## About Me
 
 I'm currently a 4th year at CSU Fullerton studying CS  
-I'm the Special Events Lead fo acmCSUF, the largest tech community at CSUF  
+I'm the Special Events Lead of acmCSUF, the largest tech community at CSUF  
 This past Summer I was an SDE intern at Amazon
 
 ## Interests 
